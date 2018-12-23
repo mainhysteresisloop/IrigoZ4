@@ -1,5 +1,5 @@
 /* Nokia 5110 LCD AVR Library
- * Copyright (C)  2017 Sergey Shelepin.
+ * Copyright (C)  2017 Sergey Shelepin <Sergey.Shelepin@gmail.com>
  *
  * Based on lib
  * written by Sergey Denisov aka LittleBuster (DenisovS21@gmail.com)

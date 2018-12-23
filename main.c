@@ -2,7 +2,7 @@
  * test_nokia5110_lcd.c
  *
  * Created: 27.05.2017 18:26:19
- * Author : USER
+ * Author : Sergey Shelepin <Sergey.Shelepin@gmail.com>
  */ 
 
 // to_do list:
@@ -451,7 +451,7 @@ int main(void) {
 	
 	DPln_P("Privet!");
 	
-	// 13. check valves connection and show thier status 
+	// 13. check valves connection and show their status 
 	display_valves_conection_status();
 		
 	lcd_update_flag = TRUE;
